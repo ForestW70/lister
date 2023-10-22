@@ -8,8 +8,16 @@ body {
 
 #listBody {
     margin: 0 100px;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
 }
 
 #listBody article {
     min-height: 200px;
+    background-color: white;
+    margin: 20px;
+}
+
+.list-img {
+    height: 200px;
 }

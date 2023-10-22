@@ -5,7 +5,7 @@ export const albumData = [
         longArtist: 'Stud Finder',
         releaseDate: 'October 10th, 2022',
         artLink: 'Studs.png',
-        // webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/studs.jpg',
+        webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/studs.jpg',
         trackList: [
             {
                 track: 'Amanda Alarm (wake up hunny)',
@@ -150,7 +150,7 @@ export const albumData = [
         longArtist: 'Lukasz Mauro',
         releaseDate: 'November 8th, 2022',
         artLink: 'unredacted.png',
-        // webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/redact.png',
+        webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/redact.png',
         trackList: [
             {
                 track: 'TFMR2Y',
@@ -259,7 +259,7 @@ export const albumData = [
         longArtist: 'Lukasz Mauro',
         releaseDate: 'November 21st, 2021',
         artLink: 'bcc.png',
-        // webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/bcc.png',
+        webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/bcc.png',
         trackList: [
             {
                 track: 'Hotmess',
@@ -422,6 +422,7 @@ export const albumData = [
         longArtist: 'Stud Finder',
         releaseDate: 'January 10th, 2021',
         artLink: 'brch.png',
+        webLink: './brnrb.png',
         trackList: [
             {
                 track: 'Boiler Room',
@@ -449,7 +450,7 @@ export const albumData = [
         longArtist: "Stud Finder",
         releaseDate: "May 17th, 2019",
         artLink: "ll.png",
-        // webLink: "https://burnthis.space/assets/images/pods.jpg",
+        webLink: "https://burnthis.space/assets/images/pods.jpg",
         trackList: [
             {
                 track: '404',
@@ -585,7 +586,7 @@ export const albumData = [
         longArtist: 'Stud Finder',
         releaseDate: 'October 9th, 2018',
         artLink: 'hmp.png',
-        // webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/s&ofv2.jpg',
+        webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/s&ofv2.jpg',
         trackList: [
             {
                 track: '1800harp',
@@ -722,7 +723,7 @@ export const albumData = [
         longArtist: 'Lukasz Mauro',
         releaseDate: 'August 28th, 2017',
         artLink: 's&ofv1.jpg',
-        // webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/s&ofv1.jpg',
+        webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/s&ofv1.jpg',
         trackList: [
             {
                 track: 'Quarantine (but its ok)',
@@ -796,7 +797,7 @@ export const albumData = [
         longArtist: 'con',
         releaseDate: 'Avril 4th, 2014',
         artLink: 'ib.jpg',
-        // webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/ib.jpg',
+        webLink: 'https://forestw70.github.io/sketches-bcc-client/assets/images/ib.jpg',
         trackList: [
             {
                 track: 'Ferox Recieved',
