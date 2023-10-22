@@ -1,7 +1,15 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(226, 198, 253);
 }
 
 .hero-logo {
     height: 200px;
+}
+
+#listBody {
+    margin: 0 100px;
+}
+
+#listBody article {
+    min-height: 200px;
 }
